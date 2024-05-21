@@ -9,7 +9,7 @@ APScheduler>=3.5.3
 PyQt5>=5.11.3
 sanic>=0.8.3
 sanic_swagger
-requests>=2.20.1
+requests>=2.32.0
 pyfiglet
 colorama
 termcolor
